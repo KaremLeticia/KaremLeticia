@@ -2,8 +2,7 @@
 
 **`Mesrtranda em Ciências da Computação e Engenheira de Dados`**
 
-Me chamo Karem Santos, tenho 24 anos e moro na linda cidade do Recife, Pernambuco. Sou graduada em Serviço Social pela UFPE e também 
-em Sistemas para Internet pela UNICAP. Atualmente sou Mestranda em Ciências da Computação pelo Centro de Informática (Cin) da UFPE. Sou apaixonada 
+Me chamo Karem Santos, tenho 24 anos e moro na linda cidade do Recife, Pernambuco. Sou graduada em Sistemas para Internet pela UNICAP. Atualmente sou Mestranda em Ciências da Computação pelo Centro de Informática (Cin) da UFPE. Sou apaixonada 
 por tecnologia e compartilho meu conhecimento eum pouco do meu dia a dia do mestrado através do 
 Instagram, com o perfil "[Karems.code](https://www.instagram.com/karems.code/profilecard/?igsh=cTBlY3dzY29oMHZn)"
 
