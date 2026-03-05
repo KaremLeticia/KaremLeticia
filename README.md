@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║   CAPA DO PERFIL — substitua o link abaixo          ║ -->
-<!-- ║   pela URL da sua imagem (recomendado: 1280x300px)  ║ -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
-<img src="https://images8.alphacoders.com/137/1374980.jpg" alt="Banner Karem Santos" width="100%" style="border-radius: 10px;" />
+<img
+     src="https://github.com/KaremLeticia/KaremLeticia/blob/main/Captura%20de%20tela%202026-03-04%20220647.png"
+     alt="Banner Karem Santos"
+     width="100%"
+   />
 
 </div>
 
@@ -15,21 +15,23 @@
 
 </div>
 
----
+## 🌸 Sobre Mim
+
+Sou **mestranda em Ciência da Computação**, com foco em **Inteligência Artificial e análise de dados**. Tenho interesse em compreender como sistemas inteligentes tomam decisões e como técnicas de aprendizado de máquina podem ser aplicadas para resolver problemas complexos baseados em dados.
+
+Minha pesquisa e meus projetos concentram-se principalmente em:
+
+- Machine Learning
+- Análise e interpretação de dados
+- Viés algorítmico e ética em IA
+- Aplicações de Inteligência Artificial em diferentes contextos
+
+Possuo formação em **Sistemas para Internet**, com experiência no desenvolvimento de soluções tecnológicas e interesse em aprofundar conhecimentos em **modelagem de dados, aprendizado de máquina e análise de algoritmos**. Busco continuamente aprofundar conhecimentos explorando como a Inteligência Artificial pode ser aplicada de forma ética e responsável.
+
 
 <img align="right" alt="Data Science GIF" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdic2c1NXR5d3p1emR3YmJrcW1uZXQzZ3BxM2x0cmhnanMwamd1ZyZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🌸 Sobre Mim
 
-🎓 **Mestranda em Ciência da Computação** pela UFPE  
-🏛️ Formação em **Serviço Social** + **Sistemas para Internet**  
-🔬 Pesquiso os impactos de **IAs Generativas** no desenvolvimento cognitivo e emocional de jovens  
-🤖 Atuo com **Data Science**, **Machine Learning** e **Inteligência Artificial**  
-🏛️ Experiência em **órgãos públicos** e **empresas privadas**  
-💡 Acredito que a verdadeira inovação acontece na interseção entre **tecnologia e empatia**  
-🌍 Objetivo: construir soluções tecnológicas com **ética, responsabilidade e impacto social**
-
----
 
 ## 📊 GitHub Stats
 
@@ -195,18 +197,6 @@ karem = {
 
 ---
 
-## 🌸 Sobre Mim
-
-Sou **mestranda em Ciência da Computação**, com foco em **Inteligência Artificial e análise de dados**. Tenho interesse em compreender como sistemas inteligentes tomam decisões e como técnicas de aprendizado de máquina podem ser aplicadas para resolver problemas complexos baseados em dados.
-
-Minha pesquisa e meus projetos concentram-se principalmente em:
-
-- Machine Learning
-- Análise e interpretação de dados
-- Viés algorítmico e ética em IA
-- Aplicações de Inteligência Artificial em diferentes contextos
-
-Possuo formação em **Sistemas para Internet**, com experiência no desenvolvimento de soluções tecnológicas e interesse em aprofundar conhecimentos em **modelagem de dados, aprendizado de máquina e análise de algoritmos**. Busco continuamente aprofundar conhecimentos explorando como a Inteligência Artificial pode ser aplicada de forma ética e responsável.
 
 
 ---
