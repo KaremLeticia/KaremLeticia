@@ -30,18 +30,16 @@ Minha pesquisa e meus projetos concentram-se principalmente em:
 
 Possuo formação em **Sistemas para Internet**, com experiência no desenvolvimento de soluções tecnológicas e interesse em aprofundar conhecimentos em **modelagem de dados, aprendizado de máquina e análise de algoritmos**. Busco continuamente aprofundar conhecimentos explorando como a Inteligência Artificial pode ser aplicada de forma ética e responsável.
 
-## GitHub Stats
-
 <div align="center">
-     
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaremLeticia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaremLeticia&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats-xi-three-79.vercel.app/api?username=KaremLeticia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-xi-three-79.vercel.app/api/top-langs/?username=KaremLeticia&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FF69B4&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KaremLeticia&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=EC4899&fire=F59E0B&currStreakLabel=A855F7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KaremLeticia&hide_border=true&background=0d1117&stroke=FF69B4&ring=FF1493&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 </div>
 
