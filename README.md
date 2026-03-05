@@ -33,7 +33,7 @@ Possuo formação em **Sistemas para Internet**, com experiência no desenvolvim
 ## GitHub Stats
 
 <div align="center">
-
+     
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaremLeticia&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=EC4899&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaremLeticia&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
 
@@ -51,8 +51,7 @@ Possuo formação em **Sistemas para Internet**, com experiência no desenvolvim
 
 </div>
 
-## Ferramentas & Tecnologias
-
+## Tools and Technologies
 ### Linguagens
 <div align="center">
 
@@ -97,10 +96,7 @@ Possuo formação em **Sistemas para Internet**, com experiência no desenvolvim
 
 </div>
 
----
-
-## Conecte-se Comigo
-
+### Connect With Me
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karemsantos/)
