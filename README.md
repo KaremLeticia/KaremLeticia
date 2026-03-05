@@ -113,5 +113,7 @@ Possuo formação em **Sistemas para Internet**, com experiência no desenvolvim
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=KaremLeticia&color=FF69B4&style=for-the-badge&label=VISITAS)
 
-*"A verdadeira inovação acontece na interseção entre a tecnologia e a empatia."* 
-🌸
+*"A verdadeira inovação acontece na interseção entre a tecnologia e a empatia."*  
+<img align="right" alt="Data Science GIF" width="150" src="https://i.ibb.co/3mG3HfNN/gato-2.png"/>
+
+
