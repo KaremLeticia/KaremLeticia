@@ -30,6 +30,10 @@ Minha pesquisa e meus projetos concentram-se principalmente em:
 
 Possuo formação em **Sistemas para Internet**, com experiência no desenvolvimento de soluções tecnológicas e interesse em aprofundar conhecimentos em **modelagem de dados, aprendizado de máquina e análise de algoritmos**. Busco continuamente aprofundar conhecimentos explorando como a Inteligência Artificial pode ser aplicada de forma ética e responsável.
 
+
+## GitHub Stats
+
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-xi-three-79.vercel.app/api?username=KaremLeticia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff"/>
